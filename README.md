@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-
-![stats]
-
-
 - 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup)
 - 🌱 I’m currently learning python.
+
+![stats]
 
 <!--
 **jkowalleck/jkowalleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 [stats]: https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&show_icons=true&theme=highcontrast  "stats"
