@@ -5,13 +5,16 @@
 
 
 <details>
-  <summary>click me to see some stats that don't mean much</summary>
-  <p>
+<summary>click me to see some stats that don't mean much</summary>
+<p>
     
 ![stats_gh]
 ![stats_lang]
-    
-  </p>
+
+<sub>
+NOTE: Top Languages does not indicate my skill level or anything like that, it's based on GitHub metric of which languages I have the most lines of code on GitHub.
+</sub>
+</p>
 </details>
 
 <!--
