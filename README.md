@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup)
+- 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup).
 - 🌱 I’m currently learning python.
 
 ![stats_gh]
