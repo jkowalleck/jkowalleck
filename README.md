@@ -3,8 +3,16 @@
 - 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup).
 - 🌱 I’m currently learning python.
 
+
+<details>
+  <summary>click me to see some stats that don't mean much</summary>
+  <p>
+    
 ![stats_gh]
 ![stats_lang]
+    
+  </p>
+</details>
 
 <!--
 **jkowalleck/jkowalleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
