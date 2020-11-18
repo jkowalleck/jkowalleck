@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![stats]
+
+
 - 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup)
 - 🌱 I’m currently learning python.
 
@@ -15,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[stats]: https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&show_icons=true&theme=highcontrast  "stats"
