@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[stats]: https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&show_icons=true&theme=highcontrast  "stats"
+[stats]: https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&show_icons=true&theme=highcontrast&disable_animations=true  "stats"
