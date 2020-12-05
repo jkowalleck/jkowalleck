@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup).
 - 👯 I’m looking to collaborate on python proects.
-- 📫 How to reach me: open an [issue here](https://github.com/jkowalleck/jkowalleck/issues).
+- 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
 
 <!--
 - 🤔 I’m looking for help with ...
