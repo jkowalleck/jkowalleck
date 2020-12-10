@@ -27,5 +27,5 @@ NOTE: Most Used Languages does not indicate my skill level or anything like that
 </details>
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
-[stats_gh]:   https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&hide_border=true&show_icons=true&disable_animations=true "gh stats"
-[stats_lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=jkowalleck&hide_border=true&layout=compact "lang stats"
+[stats_gh]:   https://github-readme-stats.vercel.app/api?username=jkowalleck&hide=stars&hide_border=true&show_icons=true&disable_animations=true&theme=dark "gh stats"
+[stats_lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=jkowalleck&hide_border=true&layout=compact&theme=dark "lang stats"
