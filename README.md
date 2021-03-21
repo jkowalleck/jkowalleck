@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [nichtparasoup](https://github.com/k4cg/nichtparasoup).
+- 🔭 I’m currently working on [nichtparasoup] & [cyclonedx-php-composer]
 - 👯 I’m looking to collaborate on python proects.
 - 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
+
+[nichtparasoup]: https://github.com/k4cg/nichtparasoup
+[cyclonedx-php-composer]: https://github.com/CycloneDX/cyclonedx-php-composer
 
 <!--
 - 🤔 I’m looking for help with ...
