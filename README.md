@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [nichtparasoup] & [cyclonedx-php-composer]
-- 👯 I’m looking to collaborate on Python, PHP, JavaScript proects and web stuff in general.
+- 👯 I’m looking to collaborate on Python, PHP, JavaScript projects and web stuff in general.
 - 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
 
 [nichtparasoup]: https://github.com/k4cg/nichtparasoup
