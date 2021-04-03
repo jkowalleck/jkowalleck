@@ -7,7 +7,7 @@
   - Python projects
   - PHP projects
   - JavaScript projects 
-  - web stuff in general.
+  - internet related projects in general.
 - 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
 
 <!--
