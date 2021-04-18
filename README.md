@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - [nichtparasoup](https://github.com/k4cg/nichtparasoup)
   - [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer)
+  - [nichtparasoup](https://github.com/k4cg/nichtparasoup)
 - 👯 I’m looking to collaborate on 
-  - Python projects
-  - PHP projects
-  - JavaScript projects 
   - internet related projects in general.
+  - security related projects in general.
+  - Python projects.
+  - PHP projects.
+  - JavaScript projects.
 - 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
 
 <!--
