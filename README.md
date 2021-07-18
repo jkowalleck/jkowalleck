@@ -6,9 +6,6 @@
 - 👯 I’m looking to collaborate on 
   - internet related projects in general.
   - security related projects in general.
-  - Python projects.
-  - PHP projects.
-  - JavaScript projects.
 - 📫 How to reach me: [open an issue here](https://github.com/jkowalleck/jkowalleck/issues).
 
 <!--
