@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on 
   - [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer)
-  - [nichtparasoup](https://github.com/k4cg/nichtparasoup)
+  - [cyclonedx-php-library](https://github.com/jkowalleck/cyclonedx-php-library)
+  <!-- [nichtparasoup](https://github.com/k4cg/nichtparasoup) -->
 - 👯 I’m looking to collaborate on 
   - internet related projects in general.
   - security related projects in general.
