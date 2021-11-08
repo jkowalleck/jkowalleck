@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer)
-  - [cyclonedx-php-library](https://github.com/jkowalleck/cyclonedx-php-library)
+  - various [CycloneDX related impllementations](https://github.com/CycloneDX/) as a maintainer
   <!-- [nichtparasoup](https://github.com/k4cg/nichtparasoup) -->
 - 👯 I’m looking to collaborate on 
   - internet related projects in general.
