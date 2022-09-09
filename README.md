@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - various [CycloneDX](https://github.com/CycloneDX/) related implementations, as a developer & maintainer
+  - various [CycloneDX](https://github.com/CycloneDX/) related implementations, as an architect, developer & maintainer
   <!-- [nichtparasoup](https://github.com/k4cg/nichtparasoup) -->
 - 👯 I’m looking to collaborate on 
   - internet related projects in general.
