@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on 
   - internet related projects in general.
   - security related projects in general.
-- 📫 How to reach me: [open a discussion here and say "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/categories/hello).
+- 📫 How to reach me: [open a discussion here and say "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello).
 
 <!--
 - 🤔 I’m looking for help with ...
