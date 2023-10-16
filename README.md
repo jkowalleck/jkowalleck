@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 
   - :cyclone: various OWASP [CycloneDX](https://github.com/CycloneDX/) related projects - as a product owner, architect, developer, maintainer, etc
   <!-- [nichtparasoup](https://github.com/k4cg/nichtparasoup) -->
-  - :ribbon: byte smithing
+  - :hammer: byte smithing
 - 👯 I’m looking to collaborate on 
   - :globe_with_meridians: internet related projects in general.
   - :lock_with_ink_pen: security related projects in general.
