@@ -17,7 +17,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
 ----
 
 If you use my open-source work or projects I contribute to, then please consider [sponsoring me][sponsor me] so that I have the funding and resources to maintain them.
@@ -28,7 +27,6 @@ If you use my open-source work or projects I contribute to, then please consider
 [![Linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jankowalleck/)
 
 [sponsor me]: https://github.com/sponsors/jkowalleck
-
 
 ----
 
