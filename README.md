@@ -28,3 +28,14 @@ If you use my open-source work or projects I contribute to, then please consider
 [![Linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jankowalleck/)
 
 [sponsor me]: https://github.com/sponsors/jkowalleck
+
+
+----
+
+<details><summary>Those stupid metrics that do not mean much...</summary>
+  
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jkowalleck/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://www.githubwrapped.io/jkowalleck)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkowalleck&theme=dark&disable_animations=true&hide_rank=true&hide_title=true)
+
+
+</details>
