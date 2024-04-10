@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on 
   - :cyclone: various OWASP [CycloneDX](https://github.com/CycloneDX/) related projects - as a product owner, architect, developer, maintainer, etc
   <!-- [nichtparasoup](https://github.com/k4cg/nichtparasoup) -->
-  - :hammer: byte smithing
+  - :hammer: byte smithing in general
 - 👯 I’m looking to collaborate on 
-  - :globe_with_meridians: internet related projects in general.
+  - :globe_with_meridians: internet/communication related projects in general.
   - :lock_with_ink_pen: security related projects in general.
 - 📫 How to reach me: [open a discussion here and say "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello).
 
