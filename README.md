@@ -30,7 +30,7 @@ If you use my open-source work or projects I contribute to, then please consider
 
 ----
 
-<details><summary>Those stupid metrics that do not mean much...</summary>
+<details><summary>…those stupid metrics that don't mean much…</summary>
 
 <!--
 ![Languages](https://api.githubtrends.io/user/svg/jkowalleck/langs?time_range=one_year&loc_metric=changed&theme=dark)
