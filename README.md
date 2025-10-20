@@ -30,7 +30,7 @@ If you use my open-source work or projects I contribute to, then please consider
 
 ----
 
-<details><summary>…those stupid metrics that don't mean much…</summary>
+<details><summary>… those dumb metrics that barely mean anything  …</summary>
 
 <!--
 ![Languages](https://api.githubtrends.io/user/svg/jkowalleck/langs?time_range=one_year&loc_metric=changed&theme=dark)
@@ -42,5 +42,11 @@ If you use my open-source work or projects I contribute to, then please consider
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn) 
 ![Commits/dh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkowalleck&utcOffset=1&theme=zenburn)  
 ![Tropy](https://github-profile-trophy.vercel.app/?username=jkowalleck&column=5&no-frame=true&no-bg=false&theme=gruvbox)
+
+</details>
+
+<details><summary>… those oh-so-impressive skills everyone can't stop flaunting …</summary>
+
+![Skillicons](https://skillicons.dev/icons?i=angular,atom,aws,babel,bash,bitbucket,bootstrap,c,cpp,clion,cmake,css,cypress,debian,django,docker,flask,git,github,githubactions,gherkin,grafana,html,idea,js,jest,jquery,kali,laravel,latex,less,linux,md,mongodb,mysql,nginx,nodejs,npm,php,phpstorm,pnpm,postgres,postman,powershell,pug,pycharm,py,redis,regex,sass,sqlite,svg,symfony,ts,vim,vscodium,vue,webpack,webstorm,yarn)
 
 </details>
