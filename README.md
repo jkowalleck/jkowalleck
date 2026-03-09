@@ -32,17 +32,17 @@ Helping developers and organizations understand **what actually runs inside thei
 
 | Project | Ecosystem | Description |
 |---|---|---|
-| https://github.com/CycloneDX/cyclonedx-python | Python | Generate CycloneDX SBOMs |
-| https://github.com/CycloneDX/cyclonedx-python-lib | Python | CycloneDX data model implementation |
-| https://github.com/CycloneDX/cyclonedx-node-npm | Node.js | Generate CycloneDX SBOMs |
-| https://github.com/CycloneDX/cyclonedx-node-yarn | Node.js | Generate CycloneDX SBOMs |
-| https://github.com/CycloneDX/cyclonedx-webpack-plugin | Webpack | SBOM generation during builds |
-| https://github.com/CycloneDX/cyclonedx-esbuild | esbuild | SBOM generation during builds |
-| https://github.com/CycloneDX/cyclonedx-php-composer | PHP | Composer SBOM plugin |
-| https://github.com/CycloneDX/cyclonedx-javascript-library | JavaScript | CycloneDX library |
-| https://github.com/CycloneDX/cyclonedx-php-library | PHP | CycloneDX library |
-| https://github.com/package-url/packageurl-php | PHP | Package URL implementation |
-| https://github.com/madpah/serializable | Python | Serialization utilities |
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs |
+| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | CycloneDX data model implementation |
+| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs |
+| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs |
+| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | SBOM generation during builds |
+| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer SBOM plugin |
+| [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript | CycloneDX library |
+| [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
+| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | Package URL implementation |
+| [serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
 
 </details>
 
