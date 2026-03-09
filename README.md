@@ -22,29 +22,19 @@ These tools are used by developers, security teams, and organizations to better 
 
 ---
 
-- 🔭 I’m currently working on  
-  - :cyclone: various **CycloneDX** projects — specification work, architecture, tooling, libraries, and the occasional bike shed discussion  
-  - :hammer: byte smithing in general
-- 👯 I’m looking to collaborate on  
-  - :globe_with_meridians: internet / communication related projects  
-  - :lock_with_ink_pen: security related projects
-- 📫 How to reach me: [open a discussion here and say "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello)
-
----
-
 <details>
-<summary><b>Some projects I maintain or co-maintain (click to expand)</b></summary>
+<summary><b>Some open-source projects I maintain or co-maintain (click to expand)</b></summary>
 
 <br>
 
 | Project | Ecosystem | Description |
 |---|---|---|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX SBOMs from Python projects |
-| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for npm projects |
-| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for Yarn projects |
-| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX SBOMs during webpack builds |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX SBOMs during esbuild builds |
-| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX SBOMs |
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX artifacts from Python projects |
+| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX artifacts for npm projects |
+| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX artifacts for Yarn projects |
+| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX artifacts during webpack builds |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX artifacts during esbuild builds |
+| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX artifacts |
 | [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | Python implementation of the CycloneDX data model |
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript | JavaScript library for working with CycloneDX |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | PHP implementation of the CycloneDX data model |
@@ -55,10 +45,22 @@ These tools are used by developers, security teams, and organizations to better 
 
 ---
 
+## What I'm currently doing
+
+- 🔭 Working on  
+  - :cyclone: various **CycloneDX** projects — specification work, architecture, tooling, libraries, and the occasional bike shed discussion  
+  - :hammer: byte smithing in general
+- 👯 Looking to collaborate on  
+  - :globe_with_meridians: internet / communication related projects  
+  - :lock_with_ink_pen: security related projects
+- 📫 Reach me by [opening a discussion and saying "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello)
+
+---
+
 If you rely on my open-source work or projects I contribute to, please consider  
 [sponsoring me][sponsor me] so I can continue maintaining and improving them.
 
-Because, shockingly, infrastructure, CI, and coffee are still not funded by appreciation, GitHub stars, or good vibes.
+Because open-source infrastructure apparently still runs on servers, CI, and caffeine — not exposure.
 
 ---
 
