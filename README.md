@@ -10,14 +10,14 @@ In other words: helping software systems explain what they actually contain — 
 
 ## CycloneDX & System Transparency
 
-I contribute to the **CycloneDX specification and tooling ecosystem**, which enables transparency for modern software systems.
+I contribute to the **CycloneDX specification and tooling ecosystem**, enabling transparency for modern software systems.
 
-CycloneDX is no longer just about *Software Bills of Materials (SBOMs)* — it’s about **system transparency in general**:
+CycloneDX is no longer just about *Software Bills of Materials (SBOMs)* — it’s about **system transparency in general**, including:
 
 - software composition  
 - services and dependencies  
 - vulnerabilities and risk  
-- operational and supply-chain insights
+- operational and supply-chain insights  
 
 Or, put differently: making complex systems slightly less opaque than a brick.
 
@@ -25,14 +25,14 @@ Or, put differently: making complex systems slightly less opaque than a brick.
 
 ## Ecosystem impact
 
-The tools and libraries I maintain help developers generate and work with **CycloneDX transparency artifacts** across multiple ecosystems.
+The tools and libraries I maintain help developers generate and work with **CycloneDX SBOMs and other system transparency artifacts** across multiple ecosystems.
 
 They support projects built with:
 
-- Python
-- Node.js (npm, yarn)
-- PHP (Composer)
-- modern build systems such as webpack and esbuild
+- Python  
+- Node.js (npm, yarn)  
+- PHP (Composer)  
+- modern build systems such as webpack and esbuild  
 
 These tools are used by developers, security teams, and organizations trying to understand **what actually runs inside their software**.
 
@@ -47,13 +47,13 @@ Which turns out to be surprisingly non-trivial.
 
 | Project | Ecosystem | Description |
 |---|---|---|
-| https://github.com/CycloneDX/cyclonedx-python | Python | Generate CycloneDX artifacts for Python projects |
+| https://github.com/CycloneDX/cyclonedx-python | Python | Generate CycloneDX SBOMs for Python projects |
 | https://github.com/CycloneDX/cyclonedx-python-lib | Python | Python implementation of the CycloneDX data model |
-| https://github.com/CycloneDX/cyclonedx-node-npm | Node.js | Generate CycloneDX artifacts for npm projects |
-| https://github.com/CycloneDX/cyclonedx-node-yarn | Node.js | Generate CycloneDX artifacts for Yarn projects |
-| https://github.com/CycloneDX/cyclonedx-webpack-plugin | Webpack | Generate CycloneDX artifacts during webpack builds |
-| https://github.com/CycloneDX/cyclonedx-esbuild | esbuild | Generate CycloneDX artifacts during esbuild builds |
-| https://github.com/CycloneDX/cyclonedx-php-composer | PHP | Composer plugin for generating CycloneDX artifacts |
+| https://github.com/CycloneDX/cyclonedx-node-npm | Node.js | Generate CycloneDX SBOMs for npm projects |
+| https://github.com/CycloneDX/cyclonedx-node-yarn | Node.js | Generate CycloneDX SBOMs for Yarn projects |
+| https://github.com/CycloneDX/cyclonedx-webpack-plugin | Webpack | Generate CycloneDX SBOMs during webpack builds |
+| https://github.com/CycloneDX/cyclonedx-esbuild | esbuild | Generate CycloneDX SBOMs during esbuild builds |
+| https://github.com/CycloneDX/cyclonedx-php-composer | PHP | Composer plugin for generating CycloneDX SBOMs |
 | https://github.com/CycloneDX/cyclonedx-javascript-library | JavaScript | JavaScript library for working with CycloneDX |
 | https://github.com/CycloneDX/cyclonedx-php-library | PHP | PHP implementation of the CycloneDX data model |
 | https://github.com/package-url/packageurl-php | PHP | Implementation of the Package URL specification |
@@ -86,7 +86,7 @@ Because servers, CI pipelines, dependency updates, and security fixes unfortunat
 
 And — shockingly — exposure still doesn’t pay for infrastructure.
 
-If you’d like these projects to keep existing and evolving, sponsorship helps making that slightly more realistic.
+If you'd like these projects to keep existing and evolving, sponsorship helps making that slightly more realistic.
 
 [![Sponsor me](https://img.shields.io/static/v1?label=&message=Sponsor%20Me&color=F6F8FA&logo=GitHub%20Sponsors&logoColor=EA4AAA&style=for-the-badge)](https://github.com/sponsors/jkowalleck)
 
