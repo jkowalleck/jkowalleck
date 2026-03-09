@@ -39,12 +39,12 @@ These tools are used by developers, security teams, and organizations to better 
 
 | Project | Ecosystem | Description |
 |---|---|---|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX artifacts from Python projects |
-| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX artifacts for npm projects |
-| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX artifacts for Yarn projects |
-| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX artifacts during webpack builds |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX artifacts during esbuild builds |
-| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX artifacts |
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX SBOMs from Python projects |
+| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for npm projects |
+| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for Yarn projects |
+| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX SBOMs during webpack builds |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX SBOMs during esbuild builds |
+| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX SBOMs |
 | [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | Python implementation of the CycloneDX data model |
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript | JavaScript library for working with CycloneDX |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | PHP implementation of the CycloneDX data model |
