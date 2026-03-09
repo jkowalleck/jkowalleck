@@ -3,6 +3,8 @@
 Open-source maintainer focused on **system transparency and software supply-chain security**.  
 Project Co-Lead of **OWASP [CycloneDX](https://github.com/CycloneDX/)**.
 
+🚧 I help maintain and evolve the **CycloneDX specification and tooling ecosystem**, enabling greater transparency in modern software systems.
+
 ---
 
 - 🔭 I’m currently working on 
