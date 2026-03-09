@@ -62,11 +62,8 @@ Because servers, CI pipelines, dependency updates, and security fixes unfortunat
 <details><summary>… those dumb metrics that barely mean anything …</summary>
 
 ![Language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkowalleck&theme=zenburn)
-
-![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn)
-
+![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn)  
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn)
-
 ![Commits/dh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkowalleck&utcOffset=1&theme=zenburn)
 
 </details>
