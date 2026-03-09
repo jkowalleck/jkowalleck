@@ -1,79 +1,105 @@
 ### Hi there 👋, I'm Jan.
 
-Open-source maintainer focused on **system transparency and software supply-chain security**.  
-Project Co-Lead of **OWASP [CycloneDX](https://github.com/CycloneDX/)**.
+Open-source maintainer focused on **system transparency and software supply-chain security**.
 
-🚧 I help maintain and evolve the **CycloneDX specification and tooling ecosystem**, enabling greater transparency in modern software systems.
+Project Co-Lead of **OWASP CycloneDX**, where I work on the specification itself and the surrounding tooling ecosystem.
+
+In other words: helping software systems explain what they actually contain — instead of everyone guessing and hoping for the best.
+
+---
+
+## CycloneDX & System Transparency
+
+I contribute to the **CycloneDX specification and tooling ecosystem**, enabling transparency for modern software systems.
+
+CycloneDX is no longer just about *Software Bills of Materials (SBOMs)* — it’s about **system transparency in general**, including:
+
+- software composition  
+- services and dependencies  
+- vulnerabilities and risk  
+- operational and supply-chain insights  
+
+Or, put differently: making complex systems slightly less opaque than a brick.
 
 ---
 
 ## Ecosystem impact
 
-The tools and libraries I maintain help developers generate and work with **CycloneDX transparency artifacts** across multiple ecosystems.
+The tools and libraries I maintain help developers generate and work with **CycloneDX SBOMs and other system transparency artifacts** across multiple ecosystems.
 
 They support projects built with:
 
-- Python
-- Node.js (npm, yarn)
-- PHP (Composer)
-- modern build systems such as webpack and esbuild
+- Python  
+- Node.js (npm, yarn)  
+- PHP (Composer)  
+- modern build systems such as webpack and esbuild  
 
-These tools are used by developers, security teams, and organizations to better understand and manage the components that make up modern software systems.
+These tools are used by developers, security teams, and organizations trying to understand **what actually runs inside their software**.
 
----
-
-- 🔭 I’m currently working on  
-  - :cyclone: various **CycloneDX** projects — specification work, architecture, tooling, libraries, and the occasional bike shed discussion  
-  - :hammer: byte smithing in general
-- 👯 I’m looking to collaborate on  
-  - :globe_with_meridians: internet / communication related projects  
-  - :lock_with_ink_pen: security related projects
-- 📫 How to reach me: [open a discussion here and say "HELLO"](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello)
+Which turns out to be surprisingly non-trivial.
 
 ---
 
 <details>
-<summary><b>Some projects I maintain or co-maintain (click to expand)</b></summary>
+<summary><b>Some open-source projects I maintain or co-maintain</b> (click if you enjoy dependency graphs)</summary>
 
 <br>
 
 | Project | Ecosystem | Description |
 |---|---|---|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX SBOMs from Python projects |
-| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for npm projects |
-| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for Yarn projects |
-| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX SBOMs during webpack builds |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX SBOMs during esbuild builds |
-| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX SBOMs |
-| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | Python implementation of the CycloneDX data model |
-| [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript | JavaScript library for working with CycloneDX |
-| [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | PHP implementation of the CycloneDX data model |
-| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | Implementation of the Package URL specification |
-| [serializable](https://github.com/madpah/serializable) | Python | Utilities for object serialization |
+| https://github.com/CycloneDX/cyclonedx-python | Python | Generate CycloneDX SBOMs for Python projects |
+| https://github.com/CycloneDX/cyclonedx-python-lib | Python | Python implementation of the CycloneDX data model |
+| https://github.com/CycloneDX/cyclonedx-node-npm | Node.js | Generate CycloneDX SBOMs for npm projects |
+| https://github.com/CycloneDX/cyclonedx-node-yarn | Node.js | Generate CycloneDX SBOMs for Yarn projects |
+| https://github.com/CycloneDX/cyclonedx-webpack-plugin | Webpack | Generate CycloneDX SBOMs during webpack builds |
+| https://github.com/CycloneDX/cyclonedx-esbuild | esbuild | Generate CycloneDX SBOMs during esbuild builds |
+| https://github.com/CycloneDX/cyclonedx-php-composer | PHP | Composer plugin for generating CycloneDX SBOMs |
+| https://github.com/CycloneDX/cyclonedx-javascript-library | JavaScript | JavaScript library for working with CycloneDX |
+| https://github.com/CycloneDX/cyclonedx-php-library | PHP | PHP implementation of the CycloneDX data model |
+| https://github.com/package-url/packageurl-php | PHP | Implementation of the Package URL specification |
+| https://github.com/madpah/serializable | Python | Utilities for object serialization |
 
 </details>
 
 ---
 
-If you rely on my open-source work or projects I contribute to, please consider  
-[sponsoring me][sponsor me] so I can continue maintaining and improving them.
+## What I'm currently doing
 
-Because, shockingly, infrastructure, CI, and coffee are still not funded by appreciation, GitHub stars, or good vibes.
+- 🔭 Working on  
+  - :cyclone: various **CycloneDX** projects — specification work, architecture, tooling, libraries, and the occasional bikeshedding  
+  - :hammer: byte smithing in general
+
+- 👯 Looking to collaborate on  
+  - :globe_with_meridians: internet / communication related projects  
+  - :lock_with_ink_pen: security related projects  
+
+- 📫 Reach me by  
+  opening a discussion and saying **"HELLO"**
 
 ---
 
-[![Sponsor me](https://img.shields.io/static/v1?label=&message=Sponsor%20Me&color=F6F8FA&logo=GitHub%20Sponsors&logoColor=EA4AAA&style=for-the-badge)][sponsor me]
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jankowalleck/)
+## Support my work
 
-[sponsor me]: https://github.com/sponsors/jkowalleck
+If you rely on the tools or libraries I maintain, consider sponsoring the work.
+
+Because servers, CI pipelines, dependency updates, and security fixes unfortunately **are not powered by appreciation alone**.
+
+And — shockingly — exposure still doesn’t pay for infrastructure.
+
+If you'd like these projects to keep existing and evolving, sponsorship helps making that slightly more realistic.
+
+[![Sponsor me](https://img.shields.io/static/v1?label=&message=Sponsor%20Me&color=F6F8FA&logo=GitHub%20Sponsors&logoColor=EA4AAA&style=for-the-badge)](https://github.com/sponsors/jkowalleck)
 
 ---
 
 <details><summary>… those dumb metrics that barely mean anything …</summary>
 
-![Language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkowalleck&theme=zenburn)  
-![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn)  
+![Language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkowalleck&theme=zenburn)
+
+![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn)
+
 ![Commits/dh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkowalleck&utcOffset=1&theme=zenburn)
 
 </details>
