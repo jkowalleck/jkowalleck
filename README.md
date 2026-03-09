@@ -17,6 +17,26 @@ Project Co-Lead of **OWASP [CycloneDX](https://github.com/CycloneDX/)**.
 
 ---
 
+<details>
+<summary><b>Some projects I maintain or co-maintain</b></summary>
+<br>
+
+| Project | Ecosystem | Description |
+|---|---|---|
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Tool for generating CycloneDX SBOMs from Python projects |
+| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for npm projects |
+| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for Yarn projects |
+| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | Generate CycloneDX SBOMs during webpack builds |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | Generate CycloneDX SBOMs during esbuild builds |
+| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer plugin for generating CycloneDX SBOMs |
+| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | Python implementation of the CycloneDX data model |
+| [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript | JavaScript library for working with CycloneDX data |
+| [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | PHP implementation of the CycloneDX data model |
+| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | Implementation of the Package URL specification |
+| [serializable](https://github.com/madpah/serializable) | Python | Utilities for object serialization |
+
+</details>
+
 If you use my open-source work or projects I contribute to, please consider [sponsoring me][sponsor me] so I can dedicate more time to maintaining them.
 
 ---
