@@ -28,10 +28,19 @@ If you use my open-source work or projects I contribute to, please consider [spo
 
 <details><summary>… those dumb metrics that barely mean anything …</summary>
 
+<!--
+![Languages](https://api.githubtrends.io/user/svg/jkowalleck/langs?time_range=one_year&loc_metric=changed&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=jkowalleck&theme=dark&disable_animations=true&hide_rank=true&hide_title=true)
+-->
+
 ![Language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkowalleck&theme=zenburn) 
 ![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn) 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn) 
 ![Commits/dh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkowalleck&utcOffset=1&theme=zenburn)  
+
+<!-- 
+![Tropy](https://github-profile-trophy.vercel.app/?username=jkowalleck&column=6light&no-frame=true&no-bg=false&theme=gruvbox)
+-->
 
 </details>
 
