@@ -16,10 +16,10 @@ CycloneDX goes beyond traditional *Software Bills of Materials (SBOMs)* and supp
 
 My tools support projects built with:
 
-- Python  
-- Node.js (npm, yarn)  
-- PHP (Composer)  
-- build systems such as webpack and esbuild  
+- Python (poetry, pipenv, uv,PDM, conda, etc)
+- Node.js (npm, yarn, etc)
+- PHP (Composer)
+- build systems such as webpack, esbuild and bun-build
 
 Helping developers and organizations understand **what actually runs inside their software** — which turns out to be surprisingly non-trivial.
 
