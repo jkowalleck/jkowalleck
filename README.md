@@ -25,10 +25,7 @@ Helping developers and organizations understand **what actually runs inside thei
 
 ---
 
-<details>
-<summary><b>Some open-source projects I maintain or co-maintain</b></summary>
-
-<br>
+## Some open-source projects I maintain or co-maintain
 
 | Project | Ecosystem | Description |
 |---|---|---|
@@ -43,8 +40,6 @@ Helping developers and organizations understand **what actually runs inside thei
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
 | [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | Package URL implementation |
 | [serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
-
-</details>
 
 ---
 
