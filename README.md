@@ -28,17 +28,17 @@ Helping developers and organizations understand **what actually runs inside thei
 ## Some open-source projects I maintain or co-maintain
 
 | Project | Ecosystem | Description |
-|---|---|---|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs |
-| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | CycloneDX data model implementation |
-| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs |
-| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs |
-| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | SBOM generation during builds |
-| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Composer SBOM plugin |
+|---------|-----------|-------------|
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs for _everything python_ |
+| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | CycloneDX library |
+| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for _npm_ |
+| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for _yarn_ |
+| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds with _Webpack_ |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild | SBOM generation during builds with _esbuild_-compatible systems |
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript/TypeScript | CycloneDX library |
+| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Generate CycloneDX SBOMs for _Composer_ |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
-| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | Package URL implementation |
+| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | PackageURL library |
 | [serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
 
 ---
