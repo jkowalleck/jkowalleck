@@ -2,12 +2,12 @@
 
 Open-source maintainer focused on **system transparency and software supply-chain security**.
 
-[![Contact via GitHub](https://img.shields.io/static/v1?label=&message=Contact%20via%20GitHub&color=181717&logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello)
-[![Contact on LinkedIn](https://img.shields.io/static/v1?label=&message=Contact%20on%20LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jankowalleck/)
-
 Project Co-Lead of **OWASP [CycloneDX](https://github.com/CycloneDX)**, working on the **specification and tooling ecosystem**.
 
 Helping (software) systems explain what they actually contain — instead of everyone guessing and hoping for the best.
+
+[![Contact via GitHub](https://img.shields.io/static/v1?label=&message=Contact%20via%20GitHub&color=181717&logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/jkowalleck/jkowalleck/discussions/new?category=hello)
+[![Contact on LinkedIn](https://img.shields.io/static/v1?label=&message=Contact%20on%20LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jankowalleck/)
 
 ---
 
