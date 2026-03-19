@@ -37,7 +37,7 @@ Helping developers and organizations understand **what actually runs inside thei
 | [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for _npm_ |
 | [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for _yarn_ |
 | [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds with _Webpack_ |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild & Bun | SBOM generation during builds with _esbuild_-compatible systems (_esbuild_, _Bun_) |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild & Bun | SBOM generation for esbuild‑compatible build systems  |
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript/TypeScript | CycloneDX library |
 | [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Generate CycloneDX SBOMs for _Composer_ |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
