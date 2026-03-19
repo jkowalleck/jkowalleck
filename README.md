@@ -16,10 +16,10 @@ CycloneDX goes beyond traditional *Software Bills of Materials (SBOMs)* and supp
 
 My tools support projects built with:
 
-- Python (Poetry, Pipenv, uv, PDM, Conda, etc)
-- Node.js (npm, yarn)
-- PHP (Composer)
-- build systems such as webpack, esbuild, and bun-build
+- Python (_Poetry_, _Pipenv_, _uv_, _PDM_, _Conda_, etc)
+- Node.js (_npm_, _yarn_)
+- PHP (_Composer_)
+- build systems such as _Webpack_, _esbuild_, and _Bun_-build
 
 Helping developers and organizations understand **what actually runs inside their software** — which turns out to be surprisingly non-trivial.
 
@@ -29,12 +29,12 @@ Helping developers and organizations understand **what actually runs inside thei
 
 | Project | Ecosystem | Description |
 |---------|-----------|-------------|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs for _everything python_ |
+| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs for _everything Python_ |
 | [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | CycloneDX library |
 | [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for _npm_ |
 | [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for _yarn_ |
 | [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds with _Webpack_ |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild & Bun | SBOM generation during builds with _esbuild_-compatible systems |
+| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild & Bun | SBOM generation during builds with _esbuild_-compatible systems (_esbuild_, _Bun_) |
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript/TypeScript | CycloneDX library |
 | [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Generate CycloneDX SBOMs for _Composer_ |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
