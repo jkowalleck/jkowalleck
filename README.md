@@ -48,6 +48,7 @@ Helping developers and organizations understand **what actually runs inside thei
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
 | [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | PackageURL library |
 | [serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
+| [cyclonedx-node-module](https://github.com/CycloneDX/cyclonedx-node-module) | Node.js | Hub for _Node.js_ CycloneDX SBOM tooling and documentation |
 
 ---
 
