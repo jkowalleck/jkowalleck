@@ -46,9 +46,9 @@ Helping developers and organizations understand **what actually runs inside thei
 | [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript/TypeScript | CycloneDX library |
 | [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Generate CycloneDX SBOMs for _Composer_ |
 | [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
+| [cyclonedx-node-module](https://github.com/CycloneDX/cyclonedx-node-module) | Node.js | Hub for _Node.js_ CycloneDX SBOM tooling and documentation |
 | [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | PackageURL library |
 | [serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
-| [cyclonedx-node-module](https://github.com/CycloneDX/cyclonedx-node-module) | Node.js | Hub for _Node.js_ CycloneDX SBOM tooling and documentation |
 
 ---
 
