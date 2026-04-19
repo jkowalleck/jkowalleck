@@ -73,6 +73,6 @@ Because servers, CI pipelines, dependency updates, and security fixes unfortunat
 
 <details><summary>… those oh-so-impressive skills everyone can't stop flaunting …</summary>
 
-![Skillicons](https://skillicons.dev/icons?i=angular,atom,aws,babel,bash,bitbucket,bootstrap,c,cpp,clion,cmake,css,cypress,debian,django,docker,flask,git,github,githubactions,gherkin,grafana,html,idea,js,jest,jquery,kali,laravel,latex,less,linux,md,mongodb,mysql,nginx,nodejs,npm,php,phpstorm,pnpm,postgres,postman,powershell,pug,pycharm,py,redis,regex,sass,sqlite,svg,symfony,ts,vim,vscodium,vue,webpack,webstorm,yarn)
+![Skillicons](https://skillicons.dev/icons?i=angular,atom,aws,babel,bash,bitbucket,bootstrap,css,cypress,debian,django,docker,flask,git,github,githubactions,gherkin,grafana,html,idea,js,jest,jquery,kali,laravel,latex,less,linux,md,mongodb,mysql,nginx,nodejs,npm,php,phpstorm,pnpm,postgres,postman,powershell,pug,pycharm,py,redis,regex,sass,sqlite,svg,symfony,ts,vim,vscodium,vue,webpack,webstorm,yarn)
 
 </details>
