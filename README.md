@@ -4,7 +4,7 @@ Open-source maintainer focused on **system transparency and software supply-chai
 
 Project Co-Lead of **OWASP [CycloneDX](https://github.com/CycloneDX)**, working on the **specification and tooling ecosystem**.
 
-Helping (software) systems explain what they actually contain — instead of everyone guessing and hoping for the best.
+Helping (software) systems explain what they actually contain—instead of everyone guessing and hoping for the best.
 
 [![Contact via GitHub]][GH say hello] &nbsp; [![Contact on LinkedIn]][linkedin]
 
