@@ -29,7 +29,7 @@ My tools support projects built with:
 - PHP (_Composer_)
 - build systems such as _Webpack_, _esbuild_, _Bun_-build, etc
 
-Helping developers and organizations understand **what actually runs inside their software** — which turns out to be surprisingly non-trivial.
+Helping developers and organizations understand **what actually runs inside their software**—which turns out to be surprisingly non-trivial.
 
 ---
 
