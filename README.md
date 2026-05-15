@@ -27,7 +27,7 @@ My tools support projects built with:
 - Python (_venv_, _Poetry_, _Pipenv_, _uv_, _PDM_, _Conda_, etc.)
 - Node.js (_npm_, _yarn_, etc.)
 - PHP (_Composer_)
-- Build systems such as _Webpack_, _esbuild_, Bun, and similar tooling
+- Build systems such as _Webpack_, _esbuild_, _Bun_-build, and similar tooling
 
 Helping developers and organizations understand **what actually runs inside their software**, which is more difficult than it should be.
 
