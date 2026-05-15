@@ -63,31 +63,17 @@ Because servers, CI pipelines, dependency updates, and security fixes are not po
 
 ---
 
-## Some open-source projects I maintain or co-maintain
+<details><summary>… those dumb metrics that barely mean anything …</summary>
 
-| Project | Ecosystem | Description |
-|---------|-----------|-------------|
-| [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) | Python | Generate CycloneDX SBOMs for _everything Python_ |
-| [cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib) | Python | CycloneDX library |
-| [cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) | Node.js | Generate CycloneDX SBOMs for _npm_ |
-| [cyclonedx-node-yarn](https://github.com/CycloneDX/cyclonedx-node-yarn) | Node.js | Generate CycloneDX SBOMs for _yarn_ |
-| [cyclonedx-webpack-plugin](https://github.com/CycloneDX/cyclonedx-webpack-plugin) | Webpack | SBOM generation during builds with _Webpack_ |
-| [cyclonedx-esbuild](https://github.com/CycloneDX/cyclonedx-esbuild) | esbuild & Bun | SBOM generation for esbuild-compatible build systems |
-| [cyclonedx-javascript-library](https://github.com/CycloneDX/cyclonedx-javascript-library) | JavaScript/TypeScript | CycloneDX library |
-| [cyclonedx-php-composer](https://github.com/CycloneDX/cyclonedx-php-composer) | PHP | Generate CycloneDX SBOMs for _Composer_ |
-| [cyclonedx-php-library](https://github.com/CycloneDX/cyclonedx-php-library) | PHP | CycloneDX library |
-| [cyclonedx-node-module](https://github.com/CycloneDX/cyclonedx-node-module) | Node.js | Hub for _Node.js_ CycloneDX SBOM tooling and documentation |
-| [packageurl-php](https://github.com/package-url/packageurl-php) | PHP | PackageURL library |
-| [rfc3987-syntax](https://github.com/willynilly/rfc3987-syntax) | Python | RFC 3987 (IRI) library |
-| [py-serializable](https://github.com/madpah/serializable) | Python | Serialization utilities |
+![Language by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkowalleck&theme=zenburn)
+![Language by commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkowalleck&theme=zenburn)  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkowalleck&theme=zenburn)
+![Commits/dh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkowalleck&utcOffset=1&theme=zenburn)
 
----
+</details>
 
-## Support my work
+<details><summary>… those oh-so-impressive skills everyone can't stop flaunting …</summary>
 
-If you rely on the tools or libraries I maintain, consider sponsoring the work.
+![Skillicons](https://skillicons.dev/icons?i=angular,aws,babel,bash,bitbucket,bootstrap,css,cypress,debian,django,docker,flask,git,github,githubactions,gherkin,grafana,html,idea,js,jest,jquery,kali,laravel,latex,less,linux,md,mongodb,mysql,nginx,nodejs,npm,php,phpstorm,pnpm,postgres,postman,powershell,pug,pycharm,py,react,redis,regex,sass,sqlite,svg,symfony,ts,ubuntu,vim,vscodium,vue,webpack,webstorm,yarn)
 
-Because servers, CI pipelines, dependency updates, and security fixes are not powered by appreciation alone.
-
-[![Sponsor me](https://img.shields.io/static/v1?label=&message=Sponsor%20Me&color=F6F8FA&logo=GitHub%20Sponsors&logoColor=EA4AAA&style=for-the-badge)](https://github.com/sponsors/jkowalleck)
-
+</details>
