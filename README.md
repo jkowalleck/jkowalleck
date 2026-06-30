@@ -57,7 +57,8 @@ Helping developers and organizations understand **what actually runs inside thei
 
 If you rely on the tools or libraries I maintain, consider sponsoring the work.
 
-Because servers, CI pipelines, dependency updates, and security fixes are not powered by appreciation alone.
+Behind every stable release is a lot of invisible labor: triaging tickets, reviewing PRs, answering questions, refining designs, and keeping dependencies secure.
+Appreciation is great, but sustainability needs support.
 
 [![Sponsor me](https://img.shields.io/static/v1?label=&message=Sponsor%20Me&color=F6F8FA&logo=GitHub%20Sponsors&logoColor=EA4AAA&style=for-the-badge)](https://github.com/sponsors/jkowalleck)
 
